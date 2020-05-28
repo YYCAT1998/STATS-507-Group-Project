@@ -11,4 +11,4 @@ Language: Python
 
 Software: Pytorch
 
-The code is shown in [*STATS507_Code_for_final project_Group6.ipynb*](https://github.com/YYCAT1998/STATS-507-Group-Project/blob/master/STATS507_Code_for_final project_Group6.ipynb) and the Final report see file [*507_Final_Report.pdf*](https://github.com/YYCAT1998/STATS-507-Group-Project/blob/master/507_Final_Report.pdf)
+The code is shown in [STATS507_Code_for_final project_Group6.ipynb](https://github.com/YYCAT1998/STATS-507-Group-Project/blob/master/STATS507_Code_for_final project_Group6.ipynb) and the Final report see file [507_Final_Report.pdf](https://github.com/YYCAT1998/STATS-507-Group-Project/blob/master/507_Final_Report.pdf)
